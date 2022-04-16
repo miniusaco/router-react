@@ -7,7 +7,7 @@ export const UrlParameter = () => {
 
   return (
     <div>
-      <h1>PUrlParameterページです</h1>
+      <h1>UrlParameterページです</h1>
       <p>パラメーターは {id} です</p>
       <p>クエリパラメーターは {query.get("name")} です</p>
     </div>
