@@ -1,4 +1,4 @@
-import { page2 } from "../Page2";
+import { Page2 } from "../Page2";
 import { UrlParameter } from "../UrlParameter";
 
 export const page2Routes = [
