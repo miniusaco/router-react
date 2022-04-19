@@ -27,7 +27,7 @@ export const Router = () => {
         )}
       />
       <Route
-        path="/page2/999"
+        path="/page2"
         render={({ match: { url } }) => (
           <Switch>
             {page2Routes.map((route) => (
