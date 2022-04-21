@@ -5,7 +5,7 @@ export const page2Routes = [
   {
     path: "/",
     exact: true,
-    children: <page2 />
+    children: <Page2 />
   },
   {
     path: "/:id",
